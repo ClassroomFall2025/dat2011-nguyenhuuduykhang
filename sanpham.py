@@ -35,5 +35,3 @@ class SanPham:
         print(f"Giá sản phẩm: {self.__gia}")
         print(f"Giảm giá: {self.__giam_gia}%")
         print(f"Thuế nhập khẩu: {self.thue_nhap_khau()}")
-
-
