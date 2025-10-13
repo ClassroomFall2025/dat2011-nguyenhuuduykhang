@@ -12,7 +12,7 @@ class SanPham:
 
     def get_gia(self):
         return self.__gia
-    
+
     def set_gia(self, gia_sp):
         self.__gia = gia_sp
 
