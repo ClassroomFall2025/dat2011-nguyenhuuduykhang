@@ -1,6 +1,6 @@
 
 def nhap_danh_sach_va_luu_file():
-    print(" Y1. Nhập danh sách nhân viên từ bàn phím. Lưu thông tin nhân viên vào file.")
+    print("Y1. Nhập danh sách nhân viên từ bàn phím. Lưu thông tin nhân viên vào file.")
 def doc_va_xuat_danh_sach():
     print("Y2. Đọc thông tin nhân viên từ file và xuất danh sách nhân viên ra màn hình.")
 def tim_nhan_vien_theo_ma():
